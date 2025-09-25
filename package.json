@@ -1,7 +1,7 @@
 {
   "name": "app-vols",
   "version": "1.0.0",
-  "description": "Application de recherche de vols",
+  "description": "Application de recherche de vols MRE",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
